@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LPK Kursus Menjahit Yani 30 Bandung | Kursus Menjahit &amp; Operator Garment Bersertifikat</title>
+<meta name="description" content="LPK Kursus Menjahit Yani 30 Bandung — lembaga pelatihan kerja resmi untuk Kursus Operator Garment dan Kursus Menjahit Wirausaha. Terampil menjahit, siap diserap kerja, mandiri berwirausaha.">
+<meta name="keywords" content="kursus menjahit bandung, LPK menjahit, kursus operator garment, kursus jahit wirausaha, pelatihan menjahit bandung, LPK Yani 30, kursus menjahit kiaracondong">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://lpkyani30.example.com/">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="LPK Kursus Menjahit Yani 30 Bandung">
+<meta property="og:description" content="Terampil Menjahit: Siap Diserap Kerja, Mandiri Berwirausaha. Kursus Operator Garment &amp; Menjahit Wirausaha di Bandung.">
+<meta property="og:locale" content="id_ID">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..800;1,9..144,400..700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "LPK Kursus Menjahit Yani 30",
+  "alternateName": "LPK Yani 30",
+  "description": "Lembaga Pelatihan Kerja resmi di Bandung yang menyelenggarakan Kursus Operator Garment dan Kursus Menjahit Wirausaha.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Jl. Terusan Kiaracondong No. 30",
+    "addressLocality": "Kiaracondong, Bandung",
+    "addressRegion": "Jawa Barat",
+    "postalCode": "40284",
+    "addressCountry": "ID"
+  },
+  "telephone": "+62-821-1234-5630",
+  "email": "[email protected]",
+  "areaServed": "Bandung, Jawa Barat",
+  "slogan": "Terampil Menjahit: Siap Diserap Kerja, Mandiri Berwirausaha."
+}
+</script>
+
+<style>
+  :root{
+    --kunyit:#F4A825;
+    --kunyit-deep:#D6890E;
+    --kunyit-pale:#FFE6AC;
+    --terracotta:#E85D22;
+    --terracotta-deep:#C2481A;
+    --ink:#2A1D12;
+    --ink-soft:#6B5741;
+    --canvas:#FFFBF2;
+    --canvas-alt:#FFF1D9;
+    --card:#FFFFFF;
+    --line:#EAD9B8;
+    --shadow: 0 20px 45px -20px rgba(42,29,18,0.35);
+    --radius-lg: 28px;
+    --radius-md: 18px;
+    --ease: cubic-bezier(.22,.9,.32,1);
+  }
+
+  *,*::before,*::after{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  @media (prefers-reduced-motion: reduce){
+    html{ scroll-behavior:auto; }
+    *,*::before,*::after{ animation-duration:0.001ms !important; animation-iteration-count:1 !important; transition-duration:0.001ms !important; scroll-behavior:auto !important; }
+  }
+
+  body{
+    margin:0;
+    background:var(--canvas);
+    color:var(--ink);
+    font-family:'Plus Jakarta Sans', sans-serif;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
+  }
+
+  h1,h2,h3,h4{
+    font-family:'Fraunces', serif;
+    color:var(--ink);
+    margin:0 0 .5em;
+    line-height:1.1;
+    font-weight:600;
+    letter-spacing:-0.01em;
+  }
+  em{ font-style:italic; color:var(--terracotta-deep); }
+  p{ margin:0 0 1em; color:var(--ink-soft); }
+  a{ color:inherit; }
+  img,svg{ display:block; max-width:100%; }
+  img{ width:100%; height:100%; object-fit:cover; }
+  ul{ margin:0; padding:0; list-style:none; }
+  button{ font-family:inherit; cursor:pointer; }
+
+  .container{ width:min(1180px, 92%); margin-inline:auto; }
+  .section{ padding: clamp(64px,9vw,120px) 0; position:relative; }
+  .section-alt{ background:var(--canvas-alt); }
+
+  .skip-link{
+    position:absolute; left:-999px; top:0; background:var(--ink); color:var(--kunyit);
+    padding:.8em 1.2em; z-index:999; border-radius:0 0 10px 0;
+  }
+  .skip-link:focus{ left:0; }
+
+  /* Eyebrow "hangtag" label — echoes garment care tags */
+  .eyebrow{
+    position:relative;
+    display:inline-flex;
+    align-items:center;
+    gap:.55rem;
+    padding:.5rem 1.1rem .5rem 1.7rem;
+    margin-bottom:1.4rem;
+    background:var(--ink);
+    color:var(--kunyit);
+    font-family:'DM Mono', monospace;
+    font-size:.72rem;
+    font-weight:500;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    clip-path: polygon(14px 0, 100% 0, 100% 100%, 14px 100%, 0 50%);
+  }
+  .eyebrow::before{
+    content:'';
+    position:absolute; left:7px; top:50%; transform:translateY(-50%);
+    width:5px; height:5px; border-radius:50%;
+    background:var(--kunyit);
+  }
+  .eyebrow.light{ background:var(--kunyit); color:var(--ink); }
+  .eyebrow.light::before{ background:var(--ink); }
+  .eyebrow.onphoto{ background:rgba(255,251,242,.94); color:var(--ink); }
+  .eyebrow.onphoto::before{ background:var(--terracotta); }
+
+  /* Stitch divider — signature motif: hand-drawn dashed seam that sews itself in on scroll */
+  .stitch-divider{ width:100%; height:34px; overflow:visible; margin: 6px 0; }
+  .stitch-divider path{
+    fill:none; stroke:var(--terracotta); stroke-width:2.4; stroke-linecap:round;
+    stroke-dasharray: 9 11;
+    stroke-dashoffset: 1400;
+    transition: stroke-dashoffset 1.8s var(--ease);
+  }
+  .stitch-divider.in-view path{ stroke-dashoffset: 0; }
+
+  .reveal{ opacity:0; transform: translateY(28px); transition: opacity .8s var(--ease), transform .8s var(--ease); }
+  .reveal.in-view{ opacity:1; transform:none; }
+
+  /* Buttons */
+  .btn{
+    display:inline-flex; align-items:center; gap:.6em; justify-content:center;
+    padding: .95em 1.7em; border-radius:999px; border:2px solid transparent;
+    font-weight:700; font-size:.95rem; letter-spacing:.01em; text-decoration:none;
+    transition: transform .25s var(--ease), box-shadow .25s var(--ease), background .25s var(--ease), color .25s var(--ease), border-color .25s var(--ease);
+  }
+  .btn-primary{ background:var(--terracotta); color:#fff; box-shadow: 0 14px 30px -12px rgba(232,93,34,.55); }
+  .btn-primary:hover{ background:var(--terracotta-deep); transform:translateY(-2px); }
+  .btn-outline{ background:transparent; border-color:#fff; color:#fff; }
+  .btn-outline:hover{ background:#fff; color:var(--ink); transform:translateY(-2px); }
+  .btn-ghost{ background:rgba(255,251,242,.16); border-color:rgba(255,251,242,.5); color:#fff; backdrop-filter:blur(6px); }
+  .btn-ghost:hover{ background:var(--kunyit); border-color:var(--kunyit); color:var(--ink); transform:translateY(-2px); }
+  .btn:focus-visible, a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible{
+    outline: 3px solid var(--terracotta); outline-offset: 3px;
+  }
+
+  /* ===== Header ===== */
+  header{
+    position:sticky; top:0; z-index:100;
+    background: rgba(255,251,242,.9); backdrop-filter: blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .nav-wrap{ display:flex; align-items:center; justify-content:space-between; padding:14px 0; position:relative; }
+  .brand{ display:flex; align-items:center; gap:.75rem; text-decoration:none; }
+  .brand-name{ font-family:'Fraunces', serif; font-weight:700; font-size:1.05rem; color:var(--ink); line-height:1.15; }
+  .brand-name span{ display:block; font-family:'DM Mono', monospace; font-size:.62rem; letter-spacing:.15em; color:var(--terracotta-deep); font-weight:500; }
+
+  nav.primary-nav ul{ display:flex; gap:1.9rem; align-items:center; }
+  nav.primary-nav a{ text-decoration:none; font-weight:600; font-size:.92rem; color:var(--ink-soft); position:relative; }
+  nav.primary-nav a::after{
+    content:''; position:absolute; left:0; bottom:-6px; width:0; height:2px; background:var(--terracotta);
+    transition:width .25s var(--ease);
+  }
+  nav.primary-nav a:hover{ color:var(--ink); }
+  nav.primary-nav a:hover::after{ width:100%; }
+
+  .nav-actions{ display:flex; align-items:center; gap:1rem; }
+  .menu-toggle{ display:none; background:none; border:none; padding:6px; }
+  .menu-toggle span{ display:block; width:24px; height:2px; background:var(--ink); margin:5px 0; transition:.3s var(--ease); }
+
+  @media (max-width: 900px){
+    nav.primary-nav{
+      position:absolute; top:100%; left:0; right:0; z-index:99;
+      background:var(--canvas); padding:1.1rem 6% 1.5rem;
+      box-shadow: 0 22px 34px -20px rgba(42,29,18,.4);
+      border-top:1px solid var(--line);
+      transform: translateY(-10px); opacity:0; visibility:hidden;
+      transition: transform .3s var(--ease), opacity .3s var(--ease), visibility .3s;
+      max-height: calc(100dvh - 66px);
+      overflow-y:auto; -webkit-overflow-scrolling:touch;
+    }
+    nav.primary-nav.open{ transform:translateY(0); opacity:1; visibility:visible; }
+    nav.primary-nav ul{ flex-direction:column; align-items:stretch; gap:.15rem; }
+    nav.primary-nav a{ font-size:1rem; padding:.65rem 0; display:block; border-bottom:1px solid var(--line); }
+    nav.primary-nav li:last-child a{ border-bottom:none; }
+    .menu-toggle{ display:block; }
+    .nav-actions .btn-primary{ display:none; }
+  }
+
+  @media (max-width: 380px){
+    .brand-name{ font-size:.92rem; }
+    .brand-name span{ font-size:.56rem; }
+  }
+
+  /* ===== Hero (full-bleed photo) ===== */
+  .hero{
+    position:relative; min-height:min(92vh, 820px); min-height:min(92dvh, 820px);
+    display:flex; align-items:center;
+    overflow:hidden; padding: 120px 0 70px;
+  }
+  .hero-bg{ position:absolute; inset:0; z-index:0; }
+  .hero-bg img{ width:100%; height:100%; object-fit:cover; }
+  .hero-bg::after{
+    content:''; position:absolute; inset:0;
+    background: linear-gradient(180deg, rgba(30,20,10,.72) 0%, rgba(42,29,18,.82) 55%, rgba(20,14,8,.94) 100%);
+  }
+  .hero-bg::before{
+    content:''; position:absolute; inset:0; z-index:1;
+    background: repeating-linear-gradient(90deg, transparent 0 38px, rgba(244,168,37,.05) 38px 40px);
+    pointer-events:none;
+  }
+  .hero-inner{ position:relative; z-index:2; text-align:center; margin-inline:auto; max-width:820px; }
+  .hero-inner h1{ color:#fff; font-size: clamp(2.1rem, 4.4vw, 3.4rem); }
+  .hero-slogan{
+    font-family:'Fraunces',serif; font-style:italic; color:var(--kunyit-pale);
+    font-size:clamp(1.15rem,2.1vw,1.5rem); max-width:38ch; margin:0 auto 1.1rem; line-height:1.4;
+  }
+  .hero-lede{ color:#EFE6D6; max-width:56ch; margin:0 auto 2rem; font-size:1.03rem; }
+  .hero-ctas{ display:flex; flex-wrap:wrap; gap:1rem; justify-content:center; margin-bottom: 3rem; }
+
+  .stat-strip{
+    position:relative; z-index:2; margin-top:auto; display:flex; justify-content:center; gap:0;
+    flex-wrap:wrap; border-top:1px dashed rgba(255,246,228,.3); padding-top:2rem;
+  }
+  .stat{ text-align:center; padding:0 clamp(1.4rem,4vw,3rem); border-right:1px dashed rgba(255,246,228,.25); }
+  .stat:last-child{ border-right:none; }
+
+  /* Mobile: keep hero CTA buttons and stats horizontal, just more compact */
+  @media (max-width: 600px){
+    .hero{ padding: 100px 0 50px; }
+    .hero-ctas{ flex-direction:row; flex-wrap:wrap; gap:.7rem; margin-bottom:2.2rem; }
+    .hero-ctas .btn{ padding:.8em 1.3em; font-size:.85rem; }
+    .stat-strip{ flex-direction:row; flex-wrap:nowrap; gap:0; padding-top:1.4rem; }
+    .stat{ padding:0 clamp(.7rem,4vw,1.4rem); flex:1 1 0; min-width:0; }
+    .stat b{ font-size:1.4rem; }
+    .stat span{ font-size:.6rem; }
+  }
+  .stat b{ display:block; font-family:'Fraunces',serif; font-size:2rem; color:var(--kunyit); }
+  .stat span{ font-family:'DM Mono',monospace; font-size:.68rem; letter-spacing:.08em; text-transform:uppercase; color:#D8CBB2; }
+
+  /* ===== Tentang ===== */
+  .about-grid{ display:grid; grid-template-columns: .9fr 1.1fr; gap:clamp(2rem,5vw,4rem); align-items:start; }
+  .about-copy p{ max-width:58ch; }
+  .vm-cards{ display:grid; gap:1.1rem; margin-top:1.6rem; }
+  .vm-card{
+    background:var(--card); border:1px solid var(--line); border-radius:var(--radius-md);
+    padding:1.5rem 1.6rem; transition: transform .3s var(--ease), box-shadow .3s var(--ease);
+  }
+  .vm-card:hover{ transform:translateY(-4px); box-shadow:var(--shadow); }
+  .vm-card h3{ font-size:1.15rem; display:flex; align-items:center; gap:.6rem; }
+  .vm-card h3 svg{ flex-shrink:0; }
+  .vm-card ul{ margin-top:.6rem; display:grid; gap:.5rem; }
+  .vm-card li{ display:flex; gap:.6rem; color:var(--ink-soft); font-size:.95rem; }
+  .vm-card li::before{ content:'—'; color:var(--terracotta); font-weight:700; flex-shrink:0; }
+
+  /* ===== Sambutan ===== */
+  .sambutan{
+    background:var(--ink); color:var(--canvas); border-radius:var(--radius-lg);
+    padding:clamp(2rem,5vw,3.4rem); display:grid; grid-template-columns:.5fr 1fr; gap:clamp(2rem,4vw,3.5rem); align-items:center;
+    position:relative; overflow:hidden;
+  }
+  .sambutan::before{
+    content:'"'; position:absolute; top:-40px; right:20px; font-family:'Fraunces',serif; font-size:16rem; color:rgba(244,168,37,.08); line-height:1; pointer-events:none;
+  }
+  .sambutan p{ color:#EFE6D6; }
+  .quote-mark{ font-family:'Fraunces',serif; font-size:1.4rem; color:var(--kunyit); }
+  .pimpinan-quote{ font-family:'Fraunces',serif; font-style:italic; font-size:clamp(1.15rem,2.1vw,1.5rem); color:#FFF6E4; line-height:1.5; }
+  .pimpinan-sign{ margin-top:1.6rem; display:flex; align-items:center; gap:1rem; }
+  .pimpinan-avatar{ width:96px; height:96px; border-radius:50%; background:var(--kunyit); display:flex; align-items:center; justify-content:center; flex-shrink:0; border:3px solid rgba(244,168,37,.35); }
+  .pimpinan-name{ font-weight:700; font-size:1.1rem; color:var(--kunyit-pale); font-family:'Fraunces',serif; }
+  .pimpinan-role{ font-family:'DM Mono',monospace; font-size:.72rem; letter-spacing:.1em; text-transform:uppercase; color:#C9BBA0; margin-top:.2rem; }
+
+  /* ===== Layanan ===== */
+  .program-grid{ display:grid; grid-template-columns:repeat(2,1fr); gap:1.8rem; }
+  .program-card{
+    background:var(--card); border-radius:var(--radius-lg); border:1px solid var(--line);
+    padding: 2rem; display:flex; flex-direction:column; height:100%;
+    transition: transform .35s var(--ease), box-shadow .35s var(--ease);
+    position:relative;
+  }
+  .program-card:hover{ transform:translateY(-6px); box-shadow:var(--shadow); }
+  .program-tag{ font-family:'DM Mono',monospace; font-size:.68rem; letter-spacing:.12em; text-transform:uppercase; color:var(--terracotta-deep); margin-bottom:.6rem; }
+  .program-card h3{ font-size:1.5rem; margin-bottom:.4rem; }
+  .program-meta{ display:flex; gap:1rem; margin:.6rem 0 1.2rem; flex-wrap:wrap; }
+  .meta-pill{ font-family:'DM Mono',monospace; font-size:.72rem; background:var(--canvas-alt); border:1px solid var(--line); padding:.35rem .7rem; border-radius:999px; }
+  .program-card ul{ display:grid; gap:.55rem; margin-bottom:1.6rem; }
+  .program-card li{ display:flex; gap:.6rem; font-size:.94rem; color:var(--ink-soft); }
+  .program-card li b{ color:var(--terracotta); font-weight:800; flex-shrink:0; }
+  .program-card .btn{ margin-top:auto; align-self:flex-start; }
+  .program-icon-wrap{ width:52px; height:52px; border-radius:14px; display:flex; align-items:center; justify-content:center; margin-bottom:1.2rem; }
+  .program-card.garment .program-icon-wrap{ background:var(--kunyit-pale); }
+  .program-card.wirausaha .program-icon-wrap{ background:#FFE0CC; }
+
+  /* ===== Fasilitas ===== */
+  .facility-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:1.6rem; }
+  .facility-card{ background:var(--card); border-radius:var(--radius-md); overflow:hidden; border:1px solid var(--line); transition:transform .3s var(--ease), box-shadow .3s var(--ease); }
+  .facility-card:hover{ transform:translateY(-5px); box-shadow:var(--shadow); }
+  .facility-photo{ aspect-ratio:4/3; overflow:hidden; }
+  .facility-photo img{ transition: transform .6s var(--ease); }
+  .facility-card:hover .facility-photo img{ transform:scale(1.06); }
+  .facility-body{ padding:1.3rem 1.4rem 1.6rem; }
+  .facility-body h3{ font-size:1.1rem; margin-bottom:.35rem; }
+  .facility-body p{ font-size:.92rem; margin:0; }
+
+  /* ===== Galeri ===== */
+  .gallery-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:1.1rem; }
+  .gallery-item{ display:flex; flex-direction:column; gap:.7rem; }
+  .gallery-photo{ position:relative; border-radius:var(--radius-md); overflow:hidden; aspect-ratio:1/1; border:1px solid var(--line); }
+  .gallery-photo img{ transition: transform .5s var(--ease); }
+  .gallery-item:hover .gallery-photo img{ transform:scale(1.08); }
+  .gallery-cap{ font-family:'Fraunces',serif; font-style:italic; font-size:.92rem; color:var(--ink-soft); text-align:center; }
+  @media (max-width:760px){ .gallery-grid{ grid-template-columns:repeat(2,1fr); } }
+  @media (max-width:480px){ .gallery-grid{ grid-template-columns:1fr; } }
+
+  /* ===== Testimoni ===== */
+  .testi-track-wrap{ position:relative; }
+  .testi-track{ display:flex; gap:1.4rem; overflow-x:auto; scroll-snap-type:x mandatory; padding-bottom:1rem; scrollbar-width:none; -webkit-overflow-scrolling:touch; }
+  .testi-track::-webkit-scrollbar{ display:none; }
+  .testi-card{
+    scroll-snap-align:start; flex:0 0 min(360px,84vw); background:var(--card); border:1px solid var(--line);
+    border-radius:var(--radius-md); padding:1.8rem; display:flex; flex-direction:column; gap:1rem;
+    position:relative;
+  }
+  .testi-stars{ color:var(--kunyit-deep); font-size:.95rem; letter-spacing:.15em; }
+  .testi-quote{ font-family:'Fraunces',serif; font-style:italic; color:var(--ink); font-size:1.05rem; line-height:1.55; }
+  .testi-person{ display:flex; align-items:center; gap:.8rem; margin-top:auto; }
+  .testi-avatar{ width:42px; height:42px; border-radius:50%; flex-shrink:0; display:flex; align-items:center; justify-content:center; font-family:'Fraunces',serif; font-weight:700; color:#fff; }
+  .testi-name{ font-weight:700; font-size:.92rem; }
+  .testi-role{ font-family:'DM Mono',monospace; font-size:.68rem; color:var(--ink-soft); letter-spacing:.05em; }
+  .testi-nav{ display:flex; gap:.7rem; margin-top:1.4rem; }
+  .testi-nav button{ width:44px; height:44px; border-radius:50%; border:1px solid var(--ink); background:transparent; display:flex; align-items:center; justify-content:center; transition:.25s var(--ease); }
+  .testi-nav button:hover{ background:var(--ink); color:var(--kunyit); }
+
+  /* ===== Kontak ===== */
+  .contact-grid{ display:grid; grid-template-columns:1fr 1fr; gap:clamp(2rem,5vw,3.5rem); align-items:start; }
+  .contact-info-list{ display:grid; gap:1.1rem; margin:1.6rem 0 2rem; }
+  .contact-info-item{ display:flex; gap:1rem; align-items:flex-start; }
+  .contact-info-icon{ width:42px; height:42px; border-radius:12px; background:var(--kunyit-pale); display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+  .contact-info-item h4{ font-size:.98rem; margin-bottom:.15rem; font-family:'Plus Jakarta Sans',sans-serif; font-weight:700; }
+  .contact-info-item address, .contact-info-item p{ font-style:normal; margin:0; color:var(--ink-soft); font-size:.92rem; }
+  .map-frame{ border-radius:var(--radius-md); overflow:hidden; border:1px solid var(--line); aspect-ratio:16/10; }
+  .map-frame iframe{ width:100%; height:100%; border:0; }
+
+  .contact-form{ background:var(--card); border:1px solid var(--line); border-radius:var(--radius-lg); padding:clamp(1.6rem,3vw,2.2rem); }
+  .form-row{ display:grid; gap:.4rem; margin-bottom:1.2rem; }
+  .form-row label{ font-family:'DM Mono',monospace; font-size:.7rem; letter-spacing:.08em; text-transform:uppercase; color:var(--ink-soft); }
+  .form-row input, .form-row select, .form-row textarea{
+    font-family:inherit; font-size:16px; padding:.85em 1em; border-radius:12px; border:1.5px solid var(--line);
+    background:var(--canvas); color:var(--ink); transition:border-color .2s var(--ease); width:100%;
+  }
+  .form-row input:focus, .form-row select:focus, .form-row textarea:focus{ border-color:var(--terracotta); outline:none; }
+  .form-two{ display:grid; grid-template-columns:1fr 1fr; gap:1rem; }
+  .form-note{ font-size:.82rem; color:var(--ink-soft); margin-top:.9rem; }
+  @media (max-width:760px){ .contact-grid, .form-two, .about-grid, .program-grid, .facility-grid{ grid-template-columns:1fr; } .sambutan{ grid-template-columns:1fr; text-align:center; } .pimpinan-sign{ justify-content:center; } }
+  @media (max-width:900px){ .gallery-grid{ grid-template-columns:repeat(2,1fr); } }
+
+  /* ===== Footer ===== */
+  footer{ background:var(--ink); color:#EFE6D6; padding: 3.4rem 0 1.6rem; }
+  .footer-grid{ display:grid; grid-template-columns:1.3fr 1fr 1fr 1fr; gap:2.5rem; padding-bottom:2.4rem; border-bottom:1px solid rgba(255,255,255,.12); }
+  .footer-brand p{ color:#C9BBA0; font-size:.9rem; max-width:32ch; }
+  footer h5{ font-family:'DM Mono',monospace; font-size:.72rem; letter-spacing:.1em; text-transform:uppercase; color:var(--kunyit); margin-bottom:1rem; }
+  footer ul{ display:grid; gap:.65rem; }
+  footer a{ text-decoration:none; color:#D8CBB2; font-size:.9rem; transition:color .2s; }
+  footer a:hover{ color:var(--kunyit); }
+  .footer-bottom{ display:flex; justify-content:space-between; flex-wrap:wrap; gap:1rem; padding-top:1.6rem; font-size:.8rem; color:#B4A488; }
+  .social-row{ display:flex; gap:.7rem; margin-top:1.2rem; }
+  .social-row a{ width:38px; height:38px; border-radius:50%; border:1px solid rgba(255,255,255,.2); display:flex; align-items:center; justify-content:center; }
+  .social-row a:hover{ background:var(--kunyit); border-color:var(--kunyit); }
+  @media (max-width:820px){ .footer-grid{ grid-template-columns:1fr 1fr; } }
+  @media (max-width:520px){ .footer-grid{ grid-template-columns:1fr; } }
+
+  ::selection{ background:var(--kunyit); color:var(--ink); }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#konten-utama">Langsung ke konten utama</a>
+
+<header>
+  <div class="container nav-wrap">
+    <a href="#beranda" class="brand" aria-label="LPK Kursus Menjahit Yani 30 — kembali ke beranda">
+      <svg width="46" height="46" viewBox="0 0 100 100" role="img" aria-hidden="true">
+        <circle cx="50" cy="50" r="47" fill="var(--ink)"/>
+        <circle cx="50" cy="50" r="47" fill="none" stroke="var(--kunyit)" stroke-width="2.5" stroke-dasharray="5 5"/>
+        <text x="50" y="59" text-anchor="middle" font-family="Fraunces, serif" font-style="italic" font-weight="700" font-size="30" fill="var(--kunyit)">Y30</text>
+      </svg>
+      <span class="brand-name">LPK Yani 30<span>KURSUS MENJAHIT · BANDUNG</span></span>
+    </a>
+
+    <nav class="primary-nav" id="primaryNav" aria-label="Navigasi utama">
+      <ul>
+        <li><a href="#beranda">Beranda</a></li>
+        <li><a href="#tentang">Tentang</a></li>
+        <li><a href="#sambutan">Sambutan</a></li>
+        <li><a href="#layanan">Layanan</a></li>
+        <li><a href="#fasilitas">Fasilitas</a></li>
+        <li><a href="#galeri">Galeri</a></li>
+        <li><a href="#testimoni">Testimoni</a></li>
+        <li><a href="#kontak">Kontak</a></li>
+      </ul>
+    </nav>
+
+    <div class="nav-actions">
+      <a href="#kontak" class="btn btn-primary">Daftar Sekarang</a>
+      <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="primaryNav" aria-label="Buka menu navigasi">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="konten-utama">
+
+  <!-- ========== 1. BERANDA / HERO ========== -->
+  <section class="hero" id="beranda">
+    <div class="hero-bg" aria-hidden="true">
+      <img src="https://images.pexels.com/photos/3984840/pexels-photo-3984840.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="" loading="eager">
+    </div>
+    <div class="container hero-inner">
+      <span class="eyebrow onphoto">Lembaga Pelatihan Kerja · Bandung</span>
+      <h1>LPK Kursus Menjahit<br>Yani 30</h1>
+      <p class="hero-slogan">&ldquo;Terampil Menjahit: Siap Diserap Kerja, Mandiri Berwirausaha.&rdquo;</p>
+      <p class="hero-lede">Pelatihan menjahit praktis dengan mesin industri, instruktur berpengalaman, dan penyaluran kerja ke industri garment — dari kelas kecil di jantung Kota Bandung.</p>
+      <div class="hero-ctas">
+        <a href="#kontak" class="btn btn-primary">Daftar Sekarang</a>
+        <a href="#galeri" class="btn btn-outline">Lihat Prestasi</a>
+        <a href="#kontak" class="btn btn-ghost">Hubungi Kami</a>
+      </div>
+      <div class="stat-strip">
+        <div class="stat"><b>1.500+</b><span>Alumni</span></div>
+        <div class="stat"><b>30+</b><span>Mesin Jahit</span></div>
+        <div class="stat"><b>15</b><span>Tahun Pengalaman</span></div>
+      </div>
+    </div>
+  </section>
+
+  <svg class="stitch-divider" viewBox="0 0 1160 20" preserveAspectRatio="none" aria-hidden="true"><path d="M0 10 H1160"/></svg>
+
+  <!-- ========== 2. TENTANG ========== -->
+  <section class="section" id="tentang">
+    <div class="container about-grid">
+      <div class="reveal">
+        <span class="eyebrow">Tentang Kami</span>
+        <h2>Tentang LPK Menjahit Yani 30</h2>
+      </div>
+
+      <div class="about-copy reveal">
+        <p>LPK Kursus Menjahit Yani 30 berdiri di Kota Bandung sebagai lembaga pelatihan kerja yang fokus pada keterampilan menjahit. Berawal dari sebuah rumah jahit kecil, kami berkembang menjadi lembaga pelatihan yang telah meluluskan ribuan peserta dan menyalurkan mereka ke industri garment maupun membuka usaha jahit sendiri.</p>
+        <p>Kurikulum kami disusun berbasis kebutuhan industri: dari pengenalan mesin, teknik jahit dasar, pola, hingga standar kualitas produksi — sehingga setiap lulusan benar-benar siap, baik untuk bekerja maupun berwirausaha.</p>
+
+        <div class="vm-cards">
+          <div class="vm-card reveal">
+            <h3><svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="var(--terracotta)" stroke-width="2"/><circle cx="12" cy="12" r="3" fill="var(--terracotta)"/></svg>Visi</h3>
+            <p style="margin:0;">Menjadi lembaga pelatihan menjahit terpercaya di Jawa Barat yang melahirkan tenaga terampil, mandiri, dan berdaya saing.</p>
+          </div>
+          <div class="vm-card reveal">
+            <h3><svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h16M14 6l6 6-6 6" stroke="var(--terracotta)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Misi</h3>
+            <ul>
+              <li>Pelatihan berbasis praktik dan standar industri.</li>
+              <li>Mendampingi peserta hingga siap kerja.</li>
+              <li>Mendorong lulusan berwirausaha mandiri.</li>
+              <li>Menjalin kemitraan dengan industri garment.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <svg class="stitch-divider" viewBox="0 0 1160 20" preserveAspectRatio="none" aria-hidden="true"><path d="M0 10 H1160"/></svg>
+
+  <!-- ========== 3. SAMBUTAN PIMPINAN ========== -->
+  <section class="section section-alt" id="sambutan">
+    <div class="container">
+      <div class="sambutan reveal">
+        <div style="text-align:center;">
+          <span class="eyebrow light">Sambutan Pimpinan</span>
+          <div class="pimpinan-avatar" aria-hidden="true">
+            <svg width="42" height="42" viewBox="0 0 24 24" fill="none"><path d="M12 12a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z" fill="var(--ink)"/><path d="M4 20c1.4-4 4.6-6 8-6s6.6 2 8 6" stroke="var(--ink)" stroke-width="1.8" stroke-linecap="round"/></svg>
+          </div>
+          <div style="margin-top:.9rem;">
+            <div class="pimpinan-name">Hj. Yani Suryani</div>
+            <div class="pimpinan-role">Pimpinan LPK Menjahit Yani 30</div>
+          </div>
+        </div>
+        <div>
+          <h3 style="color:var(--kunyit-pale); font-size:1.4rem;">Selamat datang di keluarga besar Yani 30</h3>
+          <p class="pimpinan-quote"><span class="quote-mark">“</span>Assalamu'alaikum warahmatullahi wabarakatuh. Puji syukur kami panjatkan atas kepercayaan masyarakat Bandung kepada LPK Kursus Menjahit Yani 30. Kami percaya setiap orang bisa terampil menjahit bila dibimbing dengan sabar dan praktik yang cukup — karena itu kelas kami dibuat kecil, ramah pemula, dan langsung praktik dengan mesin industri. Mari bergabung, kuasai keterampilan menjahit, dan buka jalan menuju karier maupun usaha Anda sendiri.<span class="quote-mark">”</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== 4. LAYANAN ========== -->
+  <section class="section" id="layanan">
+    <div class="container">
+      <div class="reveal" style="max-width:60ch; margin-bottom:2.6rem;">
+        <span class="eyebrow">Layanan</span>
+        <h2>Program Kursus</h2>
+      </div>
+
+      <div class="program-grid">
+        <div class="program-card garment reveal">
+          <div class="program-icon-wrap">
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><rect x="3" y="7" width="18" height="12" rx="2" stroke="var(--terracotta-deep)" stroke-width="1.8"/><path d="M8 7V5a4 4 0 0 1 8 0v2" stroke="var(--terracotta-deep)" stroke-width="1.8"/></svg>
+          </div>
+          <span class="program-tag">Siap Kerja</span>
+          <h3>Kursus Operator Garment</h3>
+          <p>Pelatihan intensif menggunakan mesin jahit industri high speed, obras, dan overdeck sesuai standar produksi pabrik. Peserta dilatih kecepatan, kerapian, dan kualitas jahitan, lalu disalurkan ke perusahaan garment mitra.</p>
+          <ul>
+            <li><b>✓</b>Durasi 1–2 bulan, praktik setiap hari</li>
+            <li><b>✓</b>Sertifikat pelatihan kerja</li>
+            <li><b>✓</b>Rekomendasi penyaluran ke industri</li>
+          </ul>
+          <a href="#kontak" class="btn btn-primary">Daftar Sekarang</a>
+        </div>
+
+        <div class="program-card wirausaha reveal">
+          <div class="program-icon-wrap">
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><path d="M3 20h18M6 20V10l6-5 6 5v10" stroke="var(--terracotta-deep)" stroke-width="1.8" stroke-linejoin="round"/><path d="M10 20v-5h4v5" stroke="var(--terracotta-deep)" stroke-width="1.8"/></svg>
+          </div>
+          <span class="program-tag">Wirausaha</span>
+          <h3>Kursus Menjahit Wirausaha</h3>
+          <p>Program untuk Anda yang ingin membuka usaha jahit sendiri: dari pengambilan ukuran, membuat pola, memotong bahan, hingga finishing busana wanita, pria, dan anak.</p>
+          <ul>
+            <li><b>✓</b>Pola dasar &amp; modifikasi model</li>
+            <li><b>✓</b>Menjahit busana rumahan &amp; seragam</li>
+            <li><b>✓</b>Tips harga jasa dan pemasaran</li>
+          </ul>
+          <a href="#kontak" class="btn btn-primary">Daftar Sekarang</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <svg class="stitch-divider" viewBox="0 0 1160 20" preserveAspectRatio="none" aria-hidden="true"><path d="M0 10 H1160"/></svg>
+
+  <!-- ========== 5. FASILITAS ========== -->
+  <section class="section section-alt" id="fasilitas">
+    <div class="container">
+      <div class="reveal" style="max-width:60ch; margin-bottom:2.6rem;">
+        <span class="eyebrow">Fasilitas</span>
+        <h2>Fasilitas Belajar Kami</h2>
+      </div>
+
+      <div class="facility-grid">
+        <div class="facility-card reveal">
+          <div class="facility-photo">
+            <img src="https://images.pexels.com/photos/7256922/pexels-photo-7256922.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Meja kerja untuk membuat pola dan memotong bahan di LPK Yani 30" loading="lazy">
+          </div>
+          <div class="facility-body">
+            <h3>Meja Belajar &amp; Pola</h3>
+            <p>Meja lebar untuk membuat pola, mengukur, dan memotong bahan dengan nyaman.</p>
+          </div>
+        </div>
+
+        <div class="facility-card reveal">
+          <div class="facility-photo">
+            <img src="https://images.pexels.com/photos/27893063/pexels-photo-27893063.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Mesin jahit industri high speed di LPK Yani 30" loading="lazy">
+          </div>
+          <div class="facility-body">
+            <h3>Mesin Jahit Industri</h3>
+            <p>Mesin high speed, obras, dan overdeck — satu peserta satu mesin.</p>
+          </div>
+        </div>
+
+        <div class="facility-card reveal">
+          <div class="facility-photo">
+            <img src="https://images.pexels.com/photos/4622216/pexels-photo-4622216.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Ruang kelas kursus menjahit yang nyaman di LPK Yani 30" loading="lazy">
+          </div>
+          <div class="facility-body">
+            <h3>Ruangan Nyaman</h3>
+            <p>Ruang kelas terang, bersih, dan sirkulasi udara baik agar fokus belajar.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== 6. GALERI ========== -->
+  <section class="section" id="galeri">
+    <div class="container">
+      <div class="reveal" style="max-width:60ch; margin-bottom:2.6rem;">
+        <span class="eyebrow">Galeri</span>
+        <h2>Kegiatan &amp; Prestasi</h2>
+      </div>
+
+      <div class="gallery-grid">
+        <div class="gallery-item reveal">
+          <div class="gallery-photo"><img src="https://images.pexels.com/photos/11482148/pexels-photo-11482148.jpeg?auto=compress&cs=tinysrgb&w=700" alt="Praktik menjahit dengan detail tangan yang presisi" loading="lazy"></div>
+          <p class="gallery-cap">Praktik jahit &amp; detail finishing</p>
+        </div>
+        <div class="gallery-item reveal">
+          <div class="gallery-photo"><img src="https://images.pexels.com/photos/7256913/pexels-photo-7256913.jpeg?auto=compress&cs=tinysrgb&w=700" alt="Peserta menyiapkan pola di meja kerja" loading="lazy"></div>
+          <p class="gallery-cap">Persiapan pola di meja kerja</p>
+        </div>
+        <div class="gallery-item reveal">
+          <div class="gallery-photo"><img src="https://images.pexels.com/photos/27893063/pexels-photo-27893063.jpeg?auto=compress&cs=tinysrgb&w=700" alt="Praktik dengan mesin jahit industri" loading="lazy"></div>
+          <p class="gallery-cap">Praktik mesin jahit industri</p>
+        </div>
+        <div class="gallery-item reveal">
+          <div class="gallery-photo"><img src="https://images.pexels.com/photos/33656709/pexels-photo-33656709.jpeg?auto=compress&cs=tinysrgb&w=700" alt="Eksplorasi bahan dan warna kain" loading="lazy"></div>
+          <p class="gallery-cap">Eksplorasi bahan &amp; warna kain</p>
+        </div>
+        <div class="gallery-item reveal">
+          <div class="gallery-photo"><img src="https://images.pexels.com/photos/9983579/pexels-photo-9983579.jpeg?auto=compress&cs=tinysrgb&w=700" alt="Suasana kelas menjahit sore hari" loading="lazy"></div>
+          <p class="gallery-cap">Kelas menjahit sore hari</p>
+        </div>
+        <div class="gallery-item reveal">
+          <div class="gallery-photo"><img src="https://images.pexels.com/photos/37232390/pexels-photo-37232390.jpeg?auto=compress&cs=tinysrgb&w=700" alt="Latihan kecepatan dan kerapian jahitan" loading="lazy"></div>
+          <p class="gallery-cap">Latihan kecepatan &amp; kerapian</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <svg class="stitch-divider" viewBox="0 0 1160 20" preserveAspectRatio="none" aria-hidden="true"><path d="M0 10 H1160"/></svg>
+
+  <!-- ========== 7. TESTIMONI ========== -->
+  <section class="section section-alt" id="testimoni">
+    <div class="container">
+      <div class="reveal" style="max-width:60ch; margin-bottom:2.2rem;">
+        <span class="eyebrow">Testimoni</span>
+        <h2>Kata Siswa &amp; Alumni</h2>
+      </div>
+
+      <div class="testi-track-wrap">
+        <div class="testi-track" id="testiTrack">
+          <div class="testi-card reveal">
+            <div class="testi-stars">★★★★★</div>
+            <p class="testi-quote">Awalnya saya belum pernah pegang mesin jahit. Dua bulan di Yani 30, sekarang saya sudah bekerja sebagai operator di pabrik garment Bandung.</p>
+            <div class="testi-person">
+              <div class="testi-avatar" style="background:var(--terracotta);">S</div>
+              <div><div class="testi-name">Siti Nurhaliza</div><div class="testi-role">Alumni Operator Garment</div></div>
+            </div>
+          </div>
+          <div class="testi-card reveal">
+            <div class="testi-stars">★★★★★</div>
+            <p class="testi-quote">Instrukturnya sabar banget, satu-satu diajarin sampai bisa. Sekarang saya buka jasa jahit di rumah dan sudah punya pelanggan tetap.</p>
+            <div class="testi-person">
+              <div class="testi-avatar" style="background:var(--kunyit-deep);">D</div>
+              <div><div class="testi-name">Dewi Anggraeni</div><div class="testi-role">Alumni Kelas Wirausaha</div></div>
+            </div>
+          </div>
+          <div class="testi-card reveal">
+            <div class="testi-stars">★★★★★</div>
+            <p class="testi-quote">Kelasnya nyaman, mesinnya lengkap, dan praktik terus setiap hari. Belajar jadi cepat paham.</p>
+            <div class="testi-person">
+              <div class="testi-avatar" style="background:var(--ink);">R</div>
+              <div><div class="testi-name">Rina Marlina</div><div class="testi-role">Peserta Aktif</div></div>
+            </div>
+          </div>
+        </div>
+        <div class="testi-nav">
+          <button type="button" id="testiPrev" aria-label="Testimoni sebelumnya">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M15 6l-6 6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button type="button" id="testiNext" aria-label="Testimoni selanjutnya">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== 8. HUBUNGI KAMI ========== -->
+  <section class="section" id="kontak">
+    <div class="container contact-grid">
+      <div class="reveal">
+        <span class="eyebrow">Hubungi Kami</span>
+        <h2>Daftar &amp; Kunjungi Kami</h2>
+
+        <div class="contact-info-list">
+          <div class="contact-info-item">
+            <div class="contact-info-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M12 21s-7-6.1-7-11a7 7 0 1 1 14 0c0 4.9-7 11-7 11Z" stroke="var(--terracotta-deep)" stroke-width="1.8"/><circle cx="12" cy="10" r="2.5" stroke="var(--terracotta-deep)" stroke-width="1.8"/></svg></div>
+            <div>
+              <h4>Alamat</h4>
+              <address>Jl. Terusan Kiaracondong No. 30, Kiaracondong, Kota Bandung, Jawa Barat 40284</address>
+            </div>
+          </div>
+          <div class="contact-info-item">
+            <div class="contact-info-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2C10.6 21 3 13.4 3 6a2 2 0 0 1 2-2Z" stroke="var(--terracotta-deep)" stroke-width="1.8" stroke-linejoin="round"/></svg></div>
+            <div>
+              <h4>Telepon / WhatsApp</h4>
+              <p>0821-1234-5630</p>
+            </div>
+          </div>
+          <div class="contact-info-item">
+            <div class="contact-info-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><rect x="3" y="5" width="18" height="14" rx="2" stroke="var(--terracotta-deep)" stroke-width="1.8"/><path d="M3 7l9 6 9-6" stroke="var(--terracotta-deep)" stroke-width="1.8"/></svg></div>
+            <div>
+              <h4>Email</h4>
+              <p>[email protected]</p>
+            </div>
+          </div>
+          <div class="contact-info-item">
+            <div class="contact-info-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="var(--terracotta-deep)" stroke-width="1.8"/><path d="M12 7v5l3.5 2" stroke="var(--terracotta-deep)" stroke-width="1.8" stroke-linecap="round"/></svg></div>
+            <div>
+              <h4>Jam Operasional</h4>
+              <p>Senin – Sabtu, 08.00 – 16.00 WIB</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="map-frame">
+          <iframe src="https://www.google.com/maps?q=Kiaracondong,%20Bandung&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Peta lokasi LPK Kursus Menjahit Yani 30, Kiaracondong, Bandung"></iframe>
+        </div>
+      </div>
+
+      <form class="contact-form reveal" id="contactForm">
+        <h3 style="margin-bottom:1.2rem;">Formulir Pendaftaran &amp; Kontak</h3>
+        <div class="form-two">
+          <div class="form-row">
+            <label for="nama">Nama Lengkap</label>
+            <input type="text" id="nama" name="nama" required autocomplete="name" placeholder="Nama Anda">
+          </div>
+          <div class="form-row">
+            <label for="whatsapp">Nomor WhatsApp</label>
+            <input type="tel" id="whatsapp" name="whatsapp" required autocomplete="tel" placeholder="08xx-xxxx-xxxx">
+          </div>
+        </div>
+        <div class="form-row">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" autocomplete="email" placeholder="nama@email.com">
+        </div>
+        <div class="form-row">
+          <label for="program">Program Pilihan</label>
+          <select id="program" name="program" required>
+            <option value="" disabled selected>Pilih program</option>
+            <option value="Kursus Operator Garment">Kursus Operator Garment</option>
+            <option value="Kursus Menjahit Wirausaha">Kursus Menjahit Wirausaha</option>
+            <option value="Belum menentukan">Belum menentukan</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <label for="pesan">Pesan</label>
+          <textarea id="pesan" name="pesan" rows="4" placeholder="Ceritakan kebutuhan atau pertanyaan Anda…"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:100%;">Kirim Pendaftaran</button>
+        <p class="form-note">Tombol di atas akan membuka WhatsApp dengan pesan Anda terisi otomatis ke admin LPK Yani 30.</p>
+      </form>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="container footer-grid">
+    <div class="footer-brand">
+      <div class="brand" style="margin-bottom:1rem;">
+        <svg width="42" height="42" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="47" fill="#3A2A1B"/><circle cx="50" cy="50" r="47" fill="none" stroke="var(--kunyit)" stroke-width="2.5" stroke-dasharray="5 5"/><text x="50" y="59" text-anchor="middle" font-family="Fraunces, serif" font-style="italic" font-weight="700" font-size="30" fill="var(--kunyit)">Y30</text></svg>
+        <span class="brand-name" style="color:#FFF6E4;">LPK Yani 30</span>
+      </div>
+      <p>LPK Kursus Menjahit Yani 30 — Terampil Menjahit: Siap Diserap Kerja, Mandiri Berwirausaha.</p>
+      <div class="social-row">
+        <a href="#" aria-label="Instagram LPK Yani 30"><svg width="17" height="17" viewBox="0 0 24 24" fill="none"><rect x="3" y="3" width="18" height="18" rx="5" stroke="#EFE6D6" stroke-width="1.6"/><circle cx="12" cy="12" r="4" stroke="#EFE6D6" stroke-width="1.6"/><circle cx="17.3" cy="6.7" r="1" fill="#EFE6D6"/></svg></a>
+        <a href="#" aria-label="Facebook LPK Yani 30"><svg width="17" height="17" viewBox="0 0 24 24" fill="none"><path d="M14 9h3V6h-3a4 4 0 0 0-4 4v2H8v3h2v6h3v-6h3l1-3h-4v-2a1 1 0 0 1 1-1Z" stroke="#EFE6D6" stroke-width="1.4" stroke-linejoin="round"/></svg></a>
+        <a href="#" aria-label="TikTok LPK Yani 30"><svg width="17" height="17" viewBox="0 0 24 24" fill="none"><path d="M15 3v10.5a3.5 3.5 0 1 1-3-3.46" stroke="#EFE6D6" stroke-width="1.6" stroke-linecap="round"/><path d="M15 3c.3 2.2 2 4 4.3 4.3" stroke="#EFE6D6" stroke-width="1.6" stroke-linecap="round"/></svg></a>
+      </div>
+    </div>
+    <div>
+      <h5>Jelajah</h5>
+      <ul>
+        <li><a href="#tentang">Tentang Kami</a></li>
+        <li><a href="#layanan">Layanan</a></li>
+        <li><a href="#fasilitas">Fasilitas</a></li>
+        <li><a href="#galeri">Galeri</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>Program</h5>
+      <ul>
+        <li><a href="#layanan">Operator Garment</a></li>
+        <li><a href="#layanan">Menjahit Wirausaha</a></li>
+        <li><a href="#testimoni">Testimoni Alumni</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>Kontak</h5>
+      <ul>
+        <li>Jl. Terusan Kiaracondong No. 30, Bandung</li>
+        <li>0821-1234-5630</li>
+        <li>[email protected]</li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span id="tahun"></span> LPK Menjahit Yani 30 — Bandung, Jawa Barat.</span>
+    <span>Dibuat dengan bangga untuk pengrajin jahit Bandung.</span>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('tahun').textContent = new Date().getFullYear();
+
+  var menuToggle = document.getElementById('menuToggle');
+  var primaryNav = document.getElementById('primaryNav');
+  menuToggle.addEventListener('click', function () {
+    var isOpen = primaryNav.classList.toggle('open');
+    menuToggle.setAttribute('aria-expanded', isOpen);
+  });
+  primaryNav.querySelectorAll('a').forEach(function (a) {
+    a.addEventListener('click', function () {
+      primaryNav.classList.remove('open');
+      menuToggle.setAttribute('aria-expanded', 'false');
+    });
+  });
+
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('in-view');
+        io.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.18 });
+  document.querySelectorAll('.reveal, .stitch-divider').forEach(function (el) { io.observe(el); });
+
+  var track = document.getElementById('testiTrack');
+  var prevBtn = document.getElementById('testiPrev');
+  var nextBtn = document.getElementById('testiNext');
+  function scrollAmount() { return track.querySelector('.testi-card').offsetWidth + 22; }
+  nextBtn.addEventListener('click', function () { track.scrollBy({ left: scrollAmount(), behavior: 'smooth' }); });
+  prevBtn.addEventListener('click', function () { track.scrollBy({ left: -scrollAmount(), behavior: 'smooth' }); });
+
+  var form = document.getElementById('contactForm');
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var nama = document.getElementById('nama').value.trim();
+    var wa = document.getElementById('whatsapp').value.trim();
+    var email = document.getElementById('email').value.trim();
+    var program = document.getElementById('program').value;
+    var pesan = document.getElementById('pesan').value.trim();
+    var lines = [
+      'Halo LPK Yani 30, saya ingin mendaftar.',
+      '',
+      'Nama: ' + nama,
+      'No. WhatsApp: ' + wa,
+      'Email: ' + (email || '-'),
+      'Program: ' + program,
+      'Pesan: ' + (pesan || '-')
+    ];
+    var text = encodeURIComponent(lines.join('\n'));
+    window.open('https://wa.me/6282112345630?text=' + text, '_blank');
+  });
+</script>
+</body>
+</html>
